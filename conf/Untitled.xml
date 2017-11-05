@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="Assembly Source File">
+<includepath>include</includepath>
+<includepath>system/include</includepath>
+<includepath>system/include/cmsis</includepath>
+<includepath>system/include/stm32f4-hal</includepath>
+<includepath>/home/ivan/stm/STM32Cube_FW_F4_V1.16.0/Middlewares/ST/STM32_Audio/Addons/PDM</includepath>
+<includepath>/home/ivan/stm/STM32Cube_FW_F4_V1.16.0/Drivers/BSP/Components/cs43l22</includepath>
+
+</language>
+<language name="C Source File">
+<includepath>include</includepath>
+<includepath>system/include</includepath>
+<includepath>system/include/cmsis</includepath>
+<includepath>system/include/stm32f4-hal</includepath>
+<includepath>/home/ivan/stm/STM32Cube_FW_F4_V1.16.0/Drivers/BSP/Components/lsm303dlhc</includepath>
+<includepath>/home/ivan/stm/STM32Cube_FW_F4_V1.16.0/Drivers/BSP/Components/l3gd20</includepath>
+<includepath>/home/ivan/stm/STM32Cube_FW_F4_V1.16.0/Middlewares/ST/STM32_Audio/Addons/PDM</includepath>
+<includepath>/home/ivan/stm/STM32Cube_FW_F4_V1.16.0/Drivers/BSP/Components/cs43l22</includepath>
+
+</language>
+<language name="C++ Source File">
+<includepath>include</includepath>
+<includepath>system/include</includepath>
+<includepath>system/include/cmsis</includepath>
+<includepath>system/include/stm32f4-hal</includepath>
+<includepath>/home/ivan/stm/STM32Cube_FW_F4_V1.16.0/Middlewares/ST/STM32_Audio/Addons/PDM</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="Assembly Source File">
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+<macro>
+<name>USE_FULL_ASSERT</name><value/>
+</macro>
+<macro>
+<name>TRACE</name><value/>
+</macro>
+<macro>
+<name>OS_USE_TRACE_SEMIHOSTING_STDOUT</name><value/>
+</macro>
+<macro>
+<name>STM32F401xC</name><value/>
+</macro>
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>HSE_VALUE</name><value>8000000</value>
+</macro>
+
+</language>
+<language name="C Source File">
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+<macro>
+<name>USE_FULL_ASSERT</name><value/>
+</macro>
+<macro>
+<name>TRACE</name><value/>
+</macro>
+<macro>
+<name>OS_USE_TRACE_SEMIHOSTING_STDOUT</name><value/>
+</macro>
+<macro>
+<name>STM32F401xC</name><value/>
+</macro>
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>HSE_VALUE</name><value>8000000</value>
+</macro>
+
+</language>
+<language name="C++ Source File">
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+<macro>
+<name>USE_FULL_ASSERT</name><value/>
+</macro>
+<macro>
+<name>TRACE</name><value/>
+</macro>
+<macro>
+<name>OS_USE_TRACE_SEMIHOSTING_STDOUT</name><value/>
+</macro>
+<macro>
+<name>STM32F401xC</name><value/>
+</macro>
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>HSE_VALUE</name><value>8000000</value>
+</macro>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>
